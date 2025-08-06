@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-class ExerciseTest {
+class  ExerciseTest {
     Exercise exercise;
 
     public ExerciseTest() {
